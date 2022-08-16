@@ -1,6 +1,6 @@
 ### Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img src="https://giphy.com/gifs/digital22-grow-learn-digital-22-ShoVlIk8TdFUnHhS3x"/>
+<img src="https://media4.giphy.com/media/ShoVlIk8TdFUnHhS3x/giphy.gif?cid=ecf05e47liwyaor03vjjz4557s34rezgap1nvn0uegs3ulxc&rid=giphy.gif&ct=g"/>
 
 
 Soy Raquel, estudiandte  Full Stack Developer con el Bootstrap 4Geeks Academy
