@@ -6,17 +6,20 @@
 
 ### Sobre mí 
 
-⋅⋅⋅ :smile: Mi nombre es __Raquel Martín__ 
-⋅⋅⋅ :house: vivo en España
-⋅⋅⋅ :brain: y actualmente soy estudiante de __Full Stack Developer__ en [4 Geeks Academy]([https://www.google.com](https://4geeksacademy.com/))
-⋅⋅⋅ :flight_departure: porque pienso que __¡Nunca es tarde!__
+* :smile: Mi nombre es __Raquel Martín__ 
+* :house: vivo en España
+* :brain: y actualmente soy estudiante de __Full Stack Developer__ en [4 Geeks Academy]([https://www.google.com](https://4geeksacademy.com/))
+* :flight_departure: porque pienso que __¡Nunca es tarde!__
 
 ### Contacta conmigo a través de
 
 <p align="left">
-<a href="https://linkedin.com/raquelmarca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkeding" height="40" width="40" /></a>
-<a href="https://www.github.com/Raquelitel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /></a> 
-<a href="https://vercel.com/raquelitel/"  target="_blank" src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png" alt="Vercel" height="40" width="40" /></a>
+<a href="https://linkedin.com/raquelmarca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="40" width="40" /></a>
+
+<a href="https://www.github.com/Raquelitel" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="Github" height="40" width="40" /></a>  
+  
+<a href="https://vercel.com/raquelitel/" target="blank"><img align="center" src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png" alt="Vercel" height="40" width="40" /></a>  
+
 </p>
 
 ### Construyendo habilidades en
@@ -33,4 +36,4 @@
 <img src="https://blog.desafiolatam.com/wp-content/uploads/2016/05/git-github-logo.jpg" width="100" height="40" alt="git and github" />
 </p>
 
-
+:sparkles: ¡Un saludo! 	:wave:
