@@ -9,7 +9,7 @@
 :brain: y actualmente soy estudiante de __Full Stack Developer__ en [4 Geeks Academy]([https://www.google.com](https://4geeksacademy.com/))
 :flight_departure: porque pienso que __¡Nunca es tarde!__
 
-## Contacta conmigo a través de
+### Contacta conmigo a través de
 
 <p align="left">
 <a href="https://linkedin.com/raquelmarca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkeding" height="40" width="40" /></a>
