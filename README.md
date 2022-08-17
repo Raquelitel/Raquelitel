@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/raquelmarca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="40" width="40" /></a>
 <a href="https://www.github.com/Raquelitel" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="Github" height="40" width="40" /></a>  
-<a href="https://vercel.com/raquelitel/" target="blank"><img align="center" src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png" alt="Vercel" height="70" width="40" /></a>  
+<a href="https://vercel.com/raquelitel/" target="blank"><img align="center" src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png" alt="Vercel" height="40" width="70" /></a>  
 
 </p>
 
