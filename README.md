@@ -1,7 +1,7 @@
 # Hello World!  :raising_hand_woman:
 
 <p align="center">
-<img src="https://media4.giphy.com/media/ShoVlIk8TdFUnHhS3x/giphy.gif?cid=ecf05e47liwyaor03vjjz4557s34rezgap1nvn0uegs3ulxc&rid=giphy.gif&ct=g" width="90%"/>
+<img src="https://media.licdn.com/dms/image/C4E16AQHBh9s2uAXu_Q/profile-displaybackgroundimage-shrink_350_1400/0/1657181284263?e=1677110400&v=beta&t=YK6D2d65jNg_6Zr3eAqNIreVj-iPUEP_79JfeTAmXWI" width="90%"/>
 </p>
 
 ### Sobre mí 
