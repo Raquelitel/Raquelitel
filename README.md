@@ -28,9 +28,14 @@
   <img align="center" alt="HTML" title="HTML 5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" title="CSS 3" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" title="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
+<br>
+<div align="center">
   <img align="center" alt="Bootstrap" title="Bootstrap" height="50" width="100" src="https://www.pragimtech.com/wp-content/uploads/2019/04/bootstrap.jpg">
   <img align="center" alt="TailwindCSS" title="TailwindCSS" height="50" width="100"  src="https://joseordaz.com/wp-content/uploads/2021/12/tailwind-pre.png">
   <img align="center" alt="React" title="React" height="50" width="80" src="https://www.ahtapotyazilim.com/wp-content/uploads/2021/10/react-js.jpg">
+
 </div>
 
 <br>
