@@ -1,7 +1,7 @@
 <h1 align="center"> Raquel Martín  :rocket: Full Stack Developer Jr </h1>
 
 <p align="center">
-<img src="https://media.licdn.com/dms/image/D4D16AQEQ4Gaclp16DA/profile-displaybackgroundimage-shrink_350_1400/0/1672659412562?e=1678320000&v=beta&t=Zko8MIvgZRO9odFJi7aY4wwiQiJSmuljwWgMfVDQFzI" width="90%"/>
+<img src="https://github.com/Raquelitel/Raquelitel/blob/main/bg-raquel.png" width="90%" alt="imagen fondo"/>
 </p>
 
 <div id="social" align="center">
