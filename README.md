@@ -15,8 +15,6 @@
 
 :smile: Mi nombre es __Raquel Martín__ 
 
-:house: Vivo en España
-
 :brain: Soy __Full Stack Developer__ , ampliando habilidades en el desarrollo de aplicaciones móviles y User Experience
 
  </div>
